@@ -1,0 +1,3 @@
+com\conference\model\Speaker.class
+com\conference\repository\HibernateSpeakerRepositoryImpl.class
+com\conference\repository\SpeakerRepository.class
